@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">razvii_pt10</string>
+    <string name="here_you_can_say_me_hi">Here you can say me Hi</string>
+    <string name="hi_i_m_dialog_fragment">Hi, I am Dialog Fragment!</string>
+    <string name="hello">Hello</string>
+    <string name="and_i_can_hide">And I can hide</string>
+    <string name="i_am_a_bottom_sheet">I am a Bottom Sheet</string>
+    <string name="i_am_custom_bottom_sheet_from_fragment_you_can_change_me_any_way_you_want">I am custom Bottom Sheet from Fragment. You can change me any way you want</string>
+    <string name="show_alert_dialog">Show Alert Dialog</string>
+    <string name="show_dialog_fragment">Show Dialog Fragment</string>
+    <string name="show_bottom_sheet_from_xml">Show Bottom Sheet from xml</string>
+    <string name="show_bottom_sheet_from_fragment">Show Bottom Sheet from fragment</string>
 </resources>
